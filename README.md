@@ -71,7 +71,7 @@ Explore the application to discover the latest trends in movies and TV shows, se
 
 ## Contact
 
-- **Belal Irshad** - [salazarslytherin786@gmail.com](mailto:salazarslytherin786@gmail.com)
-- **Project Link**: [https://github.com/Belalirshad/AB-Movies-Frontend.git](https://github.com/Belalirshad/AB-Movies-Frontend.git)
+- **Zainab Faiqua** - [zainabfaiqua03@gmail.com](mailto:zainabfaiqua03@gmail.com)
+- **Project Link**: [https://github.com/Belalirshad/AB-Movies-Frontend.git](https://github.com/zainab37/AB-Movies-Frontend.git)
 
 Feel free to reach out if you have any questions or suggestions!
