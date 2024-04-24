@@ -42,7 +42,7 @@ Before you begin, make sure you have the following tools installed:
    Start by cloning the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Belalirshad/AB-Movies-Frontend.git
+   git clone https://github.com/zainab3702/AB-Movies-Frontend-main.git
    cd AB-Movies-Frontend
    ```
 
@@ -72,6 +72,6 @@ Explore the application to discover the latest trends in movies and TV shows, se
 ## Contact
 
 - **Zainab Faiqua** - [zainabfaiqua03@gmail.com](mailto:zainabfaiqua03@gmail.com)
-- **Project Link**: [https://github.com/Belalirshad/AB-Movies-Frontend.git](https://github.com/zainab37/AB-Movies-Frontend.git)
+- **Project Link**: [https://github.com/zainab3702/AB-Movies-Frontend-main.git](https://github.com/zainab3702/AB-Movies-Frontend-main.git)
 
 Feel free to reach out if you have any questions or suggestions!
